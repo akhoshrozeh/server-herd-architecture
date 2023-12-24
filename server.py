@@ -4,7 +4,7 @@ import asyncio
 import aiohttp
 import json 
 
-API_KEY = 'AIzaSyCCPooTtMiOpsRdVIPs9UWY7tnc9bkoXos'
+API_KEY = 'XXXX'
 REQUEST_URL = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?location={0}&radius={1}&key={2}'
 LOCALHOST = '127.0.0.1'
 
